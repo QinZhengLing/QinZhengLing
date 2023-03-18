@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi, I'm QinZhengling. You might recognize me as GitHub's mascot.Coming from Chongqing University of Science and Technology.
+Hi, I'm QinZhengling(秦正岭). You might recognize me as GitHub's mascot.Coming from Chongqing University of Science and Technology.
 <details>
 <summary>My top languages</summary>
 
