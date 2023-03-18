@@ -5,6 +5,19 @@
 
 Here are some ideas to get you started:
 
+## About me
+
+Hi, I'm QinZhengLing. You might recognize me as GitHub's mascot.Coming from Chongqing University of Science and Technology.
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
