@@ -9,6 +9,8 @@ Hi, I'm QinZhengling(秦正岭). You might recognize me as GitHub's mascot.Comin
 | Rank | Languages |
 |-----:|-----------|
 |     1| Javascript|
+|     1| Vue|
+|     1| Angular|
 |     2| Python    |
 |     3| SQL       |
 
